@@ -10,10 +10,14 @@
 /wp-content/languages
 /wp-content/plugins/index.php
 /wp-content/themes/index.php
+/wp-content/plugins/akismet
+/wp-content/themes
+/wp-content/upgrade
 /wp-includes/
 /index.php
 /license.txt
 /readme.html
+/wp-content/plugins/*.tar.gz
 /wp-*.php
 /xmlrpc.php
 
